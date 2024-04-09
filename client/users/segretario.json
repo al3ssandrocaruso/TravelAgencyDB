@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "segretarioTA",
+	"password": "segretario",
+	"port": 3306,
+	"database": "agenzia_viaggi"
+}
+
